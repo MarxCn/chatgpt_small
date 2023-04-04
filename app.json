@@ -1,0 +1,18 @@
+{
+    "pages": [
+        "pages/index/index"
+    ],
+    "subPackages": [],
+    "window": {
+        "navigationBarTextStyle": "black",
+        "navigationBarTitleText": "yizhianimal",
+        "navigationBarBackgroundColor": "#F8F8F8",
+        "backgroundColor": "#F8F8F8"
+    },
+    "lazyCodeLoading": "requiredComponents",
+    "networkTimeout": {
+        "request": 1008899,
+        "connectSocket": 180000
+    },
+    "usingComponents": {}
+}
